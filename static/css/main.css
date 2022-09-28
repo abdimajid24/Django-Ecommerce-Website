@@ -65,7 +65,10 @@ h1,h2,h3,h4,h5,h6{
 .row-image{
 	width: 70px;
 }
-
+.col-lg-4 img{
+	
+	object-fit:scale-down;
+}
 .form-field{
 	width:250px;
 	display: inline-block;
